@@ -2434,7 +2434,7 @@ class PD_Origami_Simulator:
             self.appendCreaseInfo()
 
 if __name__ == '__main__':
-    ori_name_list = ["bird4"]
+    ori_name_list = ["mountain-thick"]
     output_fig = 0
     fast_mode = not output_fig
 
